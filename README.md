@@ -1,2 +1,2 @@
 # getWifiPassword
-Get wifi password from running this shell script program.
+Get wifi password in Linux OS using this shell script.
